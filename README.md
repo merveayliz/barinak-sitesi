@@ -45,16 +45,6 @@
 
 ---
 
-## 🐱 Sevimli Patili Dostumuz / Our Cute Furry Friend
-
-*(Buraya proje klasöründeki veya internetteki sevimli bir kedi/köpek gifini ekleyebilirsin. Aşağıdaki satırı kopyalayıp yapıştır)*
-
-<div align="center">
-    <img src="URL_VEYA_DOSYA_YOLU_BURAYA" alt="Sevimli Kedi Gifi" width="300" />
-</div>
-
----
-
 ## 🛠️ Kullanılan Teknolojiler / Tech Stack
 * **HTML5:** Semantik yapı ve içerik / Semantic structure and content
 * **CSS3:** Stil yönetimi, Flexbox ve Grid / Styling, Flexbox, and Grid
